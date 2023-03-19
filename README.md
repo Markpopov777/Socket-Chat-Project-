@@ -3,6 +3,7 @@ I will show how to build chat app by using Socket server-client
 
 
 Server:
+---------
 
 from socket import*
 import threading
@@ -39,6 +40,8 @@ while True:
 
 
 client:
+--------
+
 from socket import *
 import threading
 
